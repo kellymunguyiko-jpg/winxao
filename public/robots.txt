@@ -1,0 +1,10 @@
+# Winx AI PC Agent — robots.txt
+# Live site: https://winxcompony.netlify.app/
+
+User-agent: *
+Allow: /
+
+# Direct download files should not be indexed
+Disallow: /*.exe
+
+Sitemap: https://winxcompony.netlify.app/sitemap.xml

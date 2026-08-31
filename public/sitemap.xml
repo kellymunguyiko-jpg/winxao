@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Winx AI PC Agent — Sitemap (https://winxcompony.netlify.app) -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://winxcompony.netlify.app/</loc>
+    <lastmod>2026-02-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://winxcompony.netlify.app/images/winx-ai-logo.png</image:loc>
+      <image:title>Winx AI PC Agent Logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://winxcompony.netlify.app/images/og-banner.png</image:loc>
+      <image:title>Winx AI PC Agent — Free Download for Windows</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.image2url.com/r2/default/images/1788159831360-991b108c-1b64-45a6-8e7a-e9cb195545e4.png</image:loc>
+      <image:title>Winx AI PC Agent — Main Dashboard</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.image2url.com/r2/default/images/1788159903928-3c3d32be-eb1f-4df8-bbaa-698b0f924989.png</image:loc>
+      <image:title>Winx AI PC Agent — AI Chat Assistant</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.image2url.com/r2/default/images/1788159999151-d0c76ee9-877c-4440-bea4-9612eed609d8.png</image:loc>
+      <image:title>Winx AI PC Agent — Settings and Tools</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.image2url.com/r2/default/images/1788160301582-b7431295-b8eb-42ce-b3ba-677efc2fb84f.png</image:loc>
+      <image:title>Winx AI PC Agent — AI Assistant</image:title>
+    </image:image>
+  </url>
+</urlset>
